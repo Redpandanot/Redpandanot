@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I’m Chirag 👋
 
-<!--
-**Redpandanot/Redpandanot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/Redpandanot)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working at **Infosys** in Bangalore.
+- 💻 I build full‑stack web applications using the **MERN** stack (MongoDB, Express, React, Node).
+- 🎸 In my free time I play guitar and dive into video games.
+- 🌱 I’m currently learning **TypeScript** and exploring **serverless architectures**.
+- 👯 I’m open to collaborating on open‑source projects and hackathons.
+- ⚡ Fun fact: I’ve earned the **Quickdraw** achievement twice on GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+| Frontend         | Backend       | Databases    | Dev Tools         |
+| :--------------: | :-----------: | :----------: | :---------------: |
+| React.js         | Node.js       | MongoDB      | Git & GitHub      |
+| TypeScript       | Express       |              | Docker            |
+| HTML5 & CSS3     | REST APIs     |              | Postman           |
+
+
+## 🔭 Featured Projects
+
+- [Notebook-Frontend-Social-Media-App](https://github.com/Redpandanot/Notebook-Frontend-Social-Media-App)  
+  A LinkedIn‑meets‑Reddit front end built with **TypeScript**.  
+- [Notebook-Backend-Social-Media-App](https://github.com/Redpandanot/Notebook-Backend-Social-Media-App)  
+  The corresponding **JavaScript** backend for authentication, posts, and comments.  
+- [ChatBot](https://github.com/Redpandanot/ChatBot)  
+  A conversational AI ChatBot built in **JavaScript** with branching and rengeration of text at every stage.  
+
+## 📫 How to Reach Me
+- LinkedIn: [in/chiragvk](https://linkedin.com/in/chiragvk)  
+- Email: chiragbuddy5@gmail.com
+
+---
+
+⭐️ From [@Redpandanot](https://github.com/Redpandanot)  
