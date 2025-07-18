@@ -15,7 +15,7 @@
 | Frontend         | Backend       | Databases    | Dev Tools         |
 | :--------------: | :-----------: | :----------: | :---------------: |
 | React.js         | Node.js       | MongoDB      | Git & GitHub      |
-| TypeScript       | Express       |              | Docker            |
+| TypeScript/Javascript       | Express       |              | Docker            |
 | HTML5 & CSS3     | REST APIs     |              | Postman           |
 
 
