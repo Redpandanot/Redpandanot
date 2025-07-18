@@ -1,8 +1,5 @@
 # Hi there, I’m Chirag 👋
 
-![Profile views](https://gpvc.arturio.dev/Redpandanot)
-
-## 👨‍💻 About Me
 - 🔭 I’m currently working at **Infosys** in Bangalore.
 - 💻 I build full‑stack web applications using the **MERN** stack (MongoDB, Express, React, Node).
 - 🎸 In my free time I play guitar and dive into video games.
@@ -29,7 +26,3 @@
 ## 📫 How to Reach Me
 - LinkedIn: [in/chiragvk](https://linkedin.com/in/chiragvk)  
 - Email: chiragbuddy5@gmail.com
-
----
-
-⭐️ From [@Redpandanot](https://github.com/Redpandanot)  
