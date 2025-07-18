@@ -6,9 +6,7 @@
 - 🔭 I’m currently working at **Infosys** in Bangalore.
 - 💻 I build full‑stack web applications using the **MERN** stack (MongoDB, Express, React, Node).
 - 🎸 In my free time I play guitar and dive into video games.
-- 🌱 I’m currently learning **TypeScript** and exploring **serverless architectures**.
 - 👯 I’m open to collaborating on open‑source projects and hackathons.
-- ⚡ Fun fact: I’ve earned the **Quickdraw** achievement twice on GitHub!
 
 ## 🚀 Skills & Technologies
 
