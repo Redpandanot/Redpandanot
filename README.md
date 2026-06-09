@@ -1,6 +1,6 @@
 # Hi there, I’m Chirag 👋
 
-- 🔭 I’m currently working at **Infosys** in Bangalore.
+- 🔭 I’m currently working at **Peoplebox.ai** in Bangalore.
 - 💻 I build full‑stack web applications using the **MERN** stack (MongoDB, Express, React, Node).
 - 🎸 In my free time I play guitar and dive into video games.
 - 👯 I’m open to collaborating on open‑source projects and hackathons.
